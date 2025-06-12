@@ -35,7 +35,7 @@ Previously, I founded **Vacation Fund**, an employee benefits platform that help
 ---
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/amathur5000/))
+- [LinkedIn](https://www.linkedin.com/in/amathur5000/)
 - [Email](abhinav@quillit.io)
 
 ---
